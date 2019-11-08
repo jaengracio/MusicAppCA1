@@ -1,3 +1,8 @@
+Description:
+
+This project is a React Web Application called ‘KnowMusic’ that uses an API. The web application is a music information web app. It uses the Deezer API, which is a music web and mobile application. KnowMusic is a single page app where users see a list of top artists and albums. It has six components: Nav, Home, ArtistList, AlbumList, Credits and ArtistAlbum. ArtistAlbum contains the image of the artist/album and their name/title. The two list components contain the ArtistAlbum component to create lists of artists or albums. The Home component displays two images that link to these lists.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
